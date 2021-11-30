@@ -13,3 +13,36 @@ There will be a notification service which will work like at a definite time in 
 
 
 Screens:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notes:
+To get data  you will use the Openweathermap API. https://openweathermap.org/current
+Google Map API for mapview
+Tools:
+Android
+Kotlin
+Navigation Component
+MVVM
+Hilt or Dagger (Dependency Injection)
+Retrofit
+View Binding
+Constraint Layout
+
+
+
+Font Family: Roboto
+Green Color Code: #00804A
