@@ -1,4 +1,4 @@
-package com.sukhtaraitint.weather_app
+package com.example.weather_app
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

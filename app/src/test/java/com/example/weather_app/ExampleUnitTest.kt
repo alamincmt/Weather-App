@@ -1,4 +1,4 @@
-package com.sukhtaraitint.weather_app
+package com.example.weather_app
 
 import org.junit.Test
 
